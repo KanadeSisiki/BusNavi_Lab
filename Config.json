@@ -4,7 +4,7 @@
         {
             "Directory": "Tsurukawa",
             "Table_Title": "鶴川駅 方面",
-            "Color": [151, 205, 243]
+            "Color": [255, 189, 209]
         },
 
         {
@@ -59,19 +59,6 @@
             "Language" : "JP"
         },
 
-        {
-            "Duration" : 6,
-            "UseModule": "BusNavi",
-            "Directory": "Wakabadai",
-            "Language" : "EN"
-        },
-
-        {
-            "Duration" : 6,
-            "UseModule": "BusNavi",
-            "Directory": "Wakabadai",
-            "Language" : "JP"
-        }
 
     ]
 }
